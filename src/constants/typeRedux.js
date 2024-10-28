@@ -1,0 +1,9 @@
+export const GET_ALL_PRODUCT = 'GET_ALL_PRODUCT';
+export const TOGGLE_MODAL = "TOGGLE_MODAL";
+export const IS_LOGIN = "IS_LOGIN";
+export const SET_USER = 'SET_USER';
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const GET_ALL_USERS = "GET_ALL_USERS";
+export const DELETE_ONE_USER = "DELETE_ONE_USER";
+export const TOGGLE_NAVBAR = "TOGGLE_NAVBAR";
